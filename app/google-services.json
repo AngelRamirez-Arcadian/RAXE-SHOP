@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605282702359",
+    "project_id": "raxeshop-25be6",
+    "storage_bucket": "raxeshop-25be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605282702359:android:fe66dd8ee10dddfa577852",
+        "android_client_info": {
+          "package_name": "com.myshoppal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605282702359-3to814lvb888jm4gm7f9pc0kqbihheuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myshoppal",
+            "certificate_hash": "6baf2864443654e68b2d329bf6bd62c0f522a3eb"
+          }
+        },
+        {
+          "client_id": "605282702359-01ngeen11oe2mo4ris8dfgantot4en63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUXg8f-ymbkwmXrc7p5cOkQvhr6_NwAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605282702359-01ngeen11oe2mo4ris8dfgantot4en63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
